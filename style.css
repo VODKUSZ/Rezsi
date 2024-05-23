@@ -13,3 +13,7 @@ html {
   max-width: 100%;
   height: auto;
 }
+img:hover {
+  transition-duration: 2s;
+  transform: rotateY(180deg);
+}
